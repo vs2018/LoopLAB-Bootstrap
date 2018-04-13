@@ -29,7 +29,7 @@ body {
     border-radius: 5px;
     font-size: 30px; }
 
-#explore-section .fa {
+#explore-section .fa, #share-section .fa {
   color: #fff;
   background: #333;
   padding: 4px;
@@ -38,7 +38,7 @@ body {
 
 #create-section .fa {
   color: #008ed6;
-  background: #333;
+  background: #fff;
   padding: 4px;
   border-radius: 5px;
   font-size: 30px; }
